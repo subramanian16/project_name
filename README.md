@@ -9,6 +9,7 @@ sdafsadf
 - third
 - 
 
+<img src='file.png'>
 
 sadfsdf
 
